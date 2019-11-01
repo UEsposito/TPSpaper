@@ -1,4 +1,4 @@
-# TPS paper
+# Working with the Temporal Popualtion Structure (TPS) tool
 TPS is a method to date ancient genomes solely from their genomic sequence.
 In the following we provide the code to reproduce the results reported by Esposito et al.'s study
 
